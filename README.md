@@ -1,27 +1,27 @@
-# 免责声明
+# Disclaimer
 
-本研究旨在为了学术和技术交流的目的，探讨商业软件注册限制的绕过方法。
+This study aims to explore methods to bypass commercial software registration restrictions for the purpose of academic and technical exchange.
 
-**特别声明：**
+**Special Statement:**
 
-1. 本研究仅用于学术研究和技术学习，不得用于任何违法或不正当的目的，包括但不限于商业用途、侵权行为或破坏性操作。
-2. 研究成果的发布不代表对绕过方法的推广或鼓励，也不对任何由此产生的法律责任或后果承担责任。
-3. 用户应自行确保在进行任何相关操作之前，已经获得软件供应商的授权许可，并遵守所有相关法律法规。
-4. 本免责声明不适用于任何违反法律法规的行为，作者不对因使用本研究成果而产生的任何法律责任、经济损失或其他不良后果承担责任。
+1. This study is only used for academic research and technical learning, and shall not be used for any illegal or improper purposes, including but not limited to commercial use, infringement or destructive operations.
+2. The publication of the research results does not represent the promotion or encouragement of the bypass method, nor does it assume any legal liability or consequences arising therefrom.
+3. Users should ensure that they have obtained the authorization license from the software vendor and comply with all relevant laws and regulations before performing any relevant operations.
+4. This disclaimer does not apply to any violation of laws and regulations, and the author is not responsible for any legal liability, economic loss or other adverse consequences arising from the use of this research result.
 
-请使用者在使用本研究成果时，自觉遵守法律法规，并对自己的行为负责。
+When using this research result, please consciously abide by the laws and regulations and be responsible for your own behavior.
 
 ---
-### 交流群
+### Communication Group
 [Telegram Group](https://t.me/+40j656PRiB41NTI1)
 
 ---
-### 请我喝杯咖啡
+### Buy me a cup of coffee
 If this code helps and you wish to support me:
 - [PayPal: https://paypal.me/wovow](https://paypal.me/wovow)
 
-- ![License](https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/main/img/buy%20me%20coffee.jpg)
-- ![License](https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/main/img/eth.png)
+- ![License](https://raw.githubusercontent.com/gop4sch4/Surveillance-Station/main/img/buy%20me%20coffee.jpg)
+- ![License](https://raw.githubusercontent.com/gop4sch4/Surveillance-Station/main/img/eth.png)
 - - Ethereum: 0xcD3e7014164c462c07aD2700D1206Fb586388428
 -
 
@@ -32,11 +32,11 @@ If this code helps and you wish to support me:
 ### 破解授权
 - Online:
 ```shell
-curl -fsSL https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/main/activated.sh | bash
+curl -fsSL https://raw.githubusercontent.com/gop4sch4/Surveillance-Station/main/activated.sh | bash
 ```
 - Offline:
 ```shell
-# 1. Download https://github.com/ohyeah521/Surveillance-Station/archive/refs/heads/main.zip
+# 1. Download https://github.com/gop4sch4/Surveillance-Station/archive/refs/heads/main.zip
 # 2. Unload to your DSM system.
 unzip Surveillance-Station-main.zip
 cd Surveillance-Station-main
@@ -48,11 +48,11 @@ chmod +x activated.sh
 ### 恢复授权
 - Online:
 ```shell
-curl -fsSL https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/main/activated.sh | bash -s -- -r
+curl -fsSL https://raw.githubusercontent.com/gop4sch4/Surveillance-Station/main/activated.sh | bash -s -- -r
 ```
 - Offline:
 ```shell
-# 1. Download https://github.com/ohyeah521/Surveillance-Station/archive/refs/heads/main.zip
+# 1. Download https://github.com/gop4sch4/Surveillance-Station/archive/refs/heads/main.zip
 # 2. Unload to your DSM system.
 unzip Surveillance-Station-main.zip
 cd Surveillance-Station-main
@@ -62,7 +62,7 @@ chmod +x activated.sh
 
 ---
 ### 破解60授权
-![License](https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/main/img/crack_license.png)
+![License](https://raw.githubusercontent.com/gop4sch4/Surveillance-Station/main/img/crack_license.png)
 
 
 
